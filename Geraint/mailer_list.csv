@@ -1,0 +1,501 @@
+CustomerID,Gender,Senior Citizen,Partner,Dependents,Tenure Months,Contract,Monthly Charges,Churn_Probability,Churn_Risk_Band
+2254-DLXRI,Female,No,No,No,1,Month-to-month,79.15,0.9407,Very High
+2545-EBUPK,Female,Yes,No,No,2,Month-to-month,84.05,0.9086,Very High
+1452-VOQCH,Male,No,No,No,1,Month-to-month,75.1,0.8926,Very High
+4912-PIGUY,Female,No,No,No,1,Month-to-month,84.6,0.8844,Very High
+4927-WWOOZ,Male,No,Yes,No,2,Month-to-month,91.45,0.8791,Very High
+4445-ZJNMU,Male,No,No,No,9,Month-to-month,99.3,0.8789,Very High
+1628-BIZYP,Male,No,No,No,1,Month-to-month,85.0,0.8729,Very High
+5043-TRZWM,Female,No,No,No,1,Month-to-month,75.55,0.8712,Very High
+8622-ZLFKO,Female,No,Yes,No,6,Month-to-month,90.75,0.8652,Very High
+8161-QYMTT,Male,No,No,No,7,Month-to-month,94.1,0.862,Very High
+0021-IKXGC,Female,Yes,No,No,1,Month-to-month,72.1,0.8588,Very High
+3489-HHPFY,Female,No,Yes,No,2,Month-to-month,84.05,0.8576,Very High
+7577-SWIFR,Male,No,No,No,1,Month-to-month,89.25,0.8553,Very High
+6630-UJZMY,Female,Yes,Yes,No,4,Month-to-month,83.25,0.855,Very High
+2754-SDJRD,Female,Yes,No,No,8,Month-to-month,100.15,0.8464,Very High
+5150-ITWWB,Male,Yes,No,No,3,Month-to-month,94.85,0.8388,Very High
+8775-ERLNB,Male,Yes,Yes,No,1,Month-to-month,74.3,0.8343,Very High
+7439-DKZTW,Male,No,No,No,1,Month-to-month,80.55,0.8297,Very High
+1393-IMKZG,Female,No,No,No,1,Month-to-month,95.85,0.8294,Very High
+9957-YODKZ,Male,Yes,Yes,No,6,Month-to-month,80.8,0.8256,Very High
+4132-KALRO,Female,No,No,No,4,Month-to-month,100.85,0.8218,Very High
+6969-MVBAI,Female,Yes,No,No,9,Month-to-month,90.1,0.8209,Very High
+3422-GALYP,Male,No,No,No,2,Month-to-month,79.45,0.8145,Very High
+9603-OAIHC,Male,Yes,No,No,1,Month-to-month,70.05,0.8122,Very High
+5542-TBBWB,Male,No,No,No,1,Month-to-month,69.9,0.81,Very High
+4813-HQMGZ,Female,No,Yes,No,8,Month-to-month,90.25,0.8079,Very High
+2215-ZAFGX,Male,No,No,No,9,Month-to-month,85.5,0.8079,Very High
+7465-ZZRVX,Male,No,No,No,1,Month-to-month,70.35,0.8076,Very High
+3878-AVSOQ,Female,Yes,No,No,1,Month-to-month,71.25,0.8069,Very High
+3462-BJQQA,Female,No,No,No,6,Month-to-month,89.75,0.8066,Very High
+8739-XNIKG,Female,No,No,No,5,Month-to-month,84.0,0.8004,Very High
+9605-WGJVW,Female,Yes,No,No,1,Month-to-month,70.2,0.7994,Very High
+1640-PLFMP,Female,No,No,No,1,Month-to-month,70.25,0.7946,Very High
+7398-SKNQZ,Female,No,Yes,No,3,Month-to-month,94.9,0.791,Very High
+8309-IEYJD,Female,Yes,No,No,1,Month-to-month,70.6,0.7902,Very High
+9334-GWGOW,Male,Yes,Yes,No,7,Month-to-month,74.85,0.7773,Very High
+4298-OYIFC,Male,No,Yes,No,15,Month-to-month,103.45,0.7763,Very High
+7363-QTBIW,Female,No,Yes,No,9,Month-to-month,79.75,0.7759,Very High
+2077-MPJQO,Male,Yes,Yes,No,7,Month-to-month,75.4,0.7744,Very High
+9617-INGJY,Male,No,No,No,1,Month-to-month,70.6,0.7702,Very High
+7858-GTZSP,Female,No,No,No,12,Month-to-month,86.55,0.7666,Very High
+3320-VEOYC,Male,Yes,No,No,14,Month-to-month,95.6,0.7597,Very High
+1173-XZPYF,Female,No,No,No,11,Month-to-month,89.2,0.7589,Very High
+3295-YVUSR,Male,Yes,No,No,2,Month-to-month,72.6,0.7574,Very High
+7994-UYIVZ,Male,No,Yes,No,8,Month-to-month,85.65,0.7563,Very High
+8356-WUAOJ,Female,No,Yes,No,1,Month-to-month,45.0,0.7561,Very High
+5032-MIYKT,Female,No,No,No,1,Month-to-month,70.7,0.7554,Very High
+0722-SVSFK,Female,No,No,No,7,Month-to-month,100.4,0.7502,Very High
+6229-LSCKB,Male,Yes,No,No,6,Month-to-month,79.7,0.7451,High
+1197-BVMVG,Female,Yes,No,No,4,Month-to-month,74.45,0.7431,High
+0365-BZUWY,Male,No,Yes,No,17,Month-to-month,102.55,0.7419,High
+4559-UWIHT,Male,No,Yes,No,14,Month-to-month,82.65,0.7411,High
+1200-TUZHR,Female,Yes,No,No,8,Month-to-month,85.2,0.74,High
+2262-SLNVK,Female,No,No,No,1,Month-to-month,70.1,0.7374,High
+6215-NQCPY,Male,No,No,No,15,Month-to-month,99.7,0.7359,High
+4234-XTNEA,Male,No,No,No,2,Month-to-month,79.95,0.7346,High
+6127-IYJOZ,Male,Yes,No,No,1,Month-to-month,45.85,0.7332,High
+0187-QSXOE,Male,Yes,Yes,No,7,Month-to-month,89.0,0.7329,High
+4090-KPJIP,Female,No,No,No,3,Month-to-month,74.95,0.7322,High
+3338-CVVEH,Male,No,No,No,12,Month-to-month,94.55,0.7307,High
+9741-YLNTD,Male,No,No,No,6,Month-to-month,87.95,0.7269,High
+1746-TGTWV,Male,No,Yes,No,1,Month-to-month,75.35,0.7249,High
+5429-LWCMV,Female,No,No,No,12,Month-to-month,89.15,0.7202,High
+9919-KNPOO,Female,No,Yes,No,21,Month-to-month,94.3,0.719,High
+9094-AZPHK,Female,No,No,No,15,Month-to-month,100.15,0.7179,High
+3384-CTMSF,Male,No,Yes,No,47,Month-to-month,104.1,0.714,High
+4847-TAJYI,Female,Yes,No,No,6,Month-to-month,89.35,0.7136,High
+0840-DFEZH,Female,No,No,No,7,Month-to-month,75.35,0.7129,High
+4929-XIHVW,Male,Yes,Yes,No,2,Month-to-month,95.5,0.7117,High
+2674-MIAHT,Female,No,No,No,4,Month-to-month,80.3,0.7114,High
+4060-LDNLU,Male,No,No,No,7,Month-to-month,96.2,0.7103,High
+2876-GZYZC,Female,No,No,No,13,Month-to-month,85.95,0.7094,High
+6860-YRJZP,Male,Yes,No,No,9,Month-to-month,74.05,0.7093,High
+4395-PZMSN,Male,Yes,No,No,5,Month-to-month,85.55,0.7087,High
+3096-GKWEB,Male,No,Yes,No,18,Month-to-month,94.75,0.7083,High
+4115-NZRKS,Female,Yes,No,No,7,Month-to-month,89.15,0.7069,High
+6116-RFVHN,Female,No,Yes,No,34,Month-to-month,100.45,0.7064,High
+1751-NCDLI,Male,Yes,Yes,No,46,Month-to-month,98.85,0.7062,High
+7365-BVCJH,Male,No,No,No,1,Month-to-month,24.4,0.7061,High
+4706-DGAHW,Male,Yes,No,No,1,Month-to-month,45.2,0.7051,High
+6185-TASNN,Male,Yes,No,No,1,Month-to-month,46.3,0.7051,High
+6856-RAURS,Female,No,No,No,2,Month-to-month,74.9,0.7032,High
+8040-MNRTF,Female,No,No,No,1,Month-to-month,71.1,0.7016,High
+5348-CAGXB,Male,No,No,No,12,Month-to-month,89.55,0.7012,High
+3317-VLGQT,Female,No,Yes,No,14,Month-to-month,78.1,0.701,High
+9840-EFJQB,Female,No,No,No,1,Month-to-month,74.35,0.7003,High
+5937-EORGB,Male,Yes,Yes,No,15,Month-to-month,96.5,0.7001,High
+3199-XGZCY,Female,No,No,No,8,Month-to-month,75.25,0.7,High
+8541-QVFKM,Female,No,No,No,8,Month-to-month,73.5,0.7,High
+3030-YDNRM,Male,No,No,No,8,Month-to-month,74.85,0.6993,High
+7590-VHVEG,Female,No,Yes,No,1,Month-to-month,29.85,0.698,High
+0168-XZKBB,Female,No,Yes,No,19,Month-to-month,86.85,0.6975,High
+5129-JLPIS,Male,No,No,No,25,Month-to-month,105.5,0.6971,High
+5995-SNNEW,Male,Yes,Yes,No,23,Month-to-month,104.45,0.6968,High
+9290-SHCMB,Female,Yes,No,No,13,Month-to-month,96.85,0.6967,High
+4633-MKHYU,Female,No,No,No,9,Month-to-month,88.4,0.6954,High
+4884-ZTHVF,Female,Yes,No,No,8,Month-to-month,87.1,0.6954,High
+3841-CONLJ,Female,No,Yes,No,1,Month-to-month,35.0,0.6939,High
+6407-UTSLV,Female,Yes,No,No,2,Month-to-month,83.8,0.6933,High
+7952-OBOYL,Male,No,No,No,3,Month-to-month,89.85,0.6931,High
+6362-QHAFM,Male,No,Yes,No,42,One year,108.3,0.6917,High
+3312-UUMZW,Male,No,Yes,No,32,Month-to-month,98.85,0.6906,High
+2371-JQHZZ,Male,No,Yes,No,24,Month-to-month,93.0,0.6901,High
+6350-XFYGW,Male,Yes,No,No,4,Month-to-month,94.75,0.69,High
+2123-AGEEN,Female,Yes,No,No,7,Month-to-month,84.35,0.6898,High
+6435-SRWBJ,Female,No,No,No,5,Month-to-month,82.75,0.6868,High
+0420-HLGXF,Female,Yes,No,No,39,Month-to-month,99.75,0.6861,High
+6357-JJPQT,Female,No,No,No,3,Month-to-month,80.5,0.6846,High
+3197-ARFOY,Female,Yes,No,No,19,Month-to-month,105.0,0.6845,High
+3318-NMQXL,Male,No,No,No,3,Month-to-month,92.0,0.6843,High
+3452-GWUIN,Female,Yes,Yes,No,19,Month-to-month,94.95,0.6837,High
+4536-PLEQY,Male,No,Yes,No,12,Month-to-month,85.05,0.6812,High
+2135-DQWAQ,Female,No,No,No,5,Month-to-month,85.3,0.6805,High
+8313-NDOIA,Female,No,No,No,24,Month-to-month,104.15,0.6804,High
+5628-FCGYG,Male,No,No,No,21,Month-to-month,84.1,0.6797,High
+0434-CSFON,Female,No,Yes,No,47,Month-to-month,100.5,0.6793,High
+5216-WASFJ,Female,Yes,Yes,No,31,Month-to-month,84.85,0.6784,High
+5117-IFGPS,Male,Yes,Yes,No,29,Month-to-month,84.3,0.6773,High
+7321-VGNKU,Female,No,Yes,No,2,Month-to-month,70.35,0.6771,High
+5382-SOYZL,Male,No,No,No,22,Month-to-month,95.1,0.6753,High
+2675-DHUTR,Male,Yes,Yes,No,58,Month-to-month,98.9,0.6752,High
+8132-YPVBX,Female,No,No,No,6,Month-to-month,85.95,0.6741,High
+7668-XCFYV,Female,Yes,Yes,No,17,Month-to-month,92.55,0.6737,High
+5956-YHHRX,Male,Yes,No,No,21,Month-to-month,104.35,0.6722,High
+7315-WYOAW,Male,No,No,No,13,Month-to-month,100.75,0.672,High
+7392-YYPYJ,Male,No,No,No,22,Month-to-month,100.65,0.6719,High
+8087-LGYHQ,Male,No,No,No,9,Month-to-month,94.05,0.6717,High
+9822-OAOVB,Female,No,No,No,1,Month-to-month,55.45,0.6702,High
+7044-YAACC,Male,Yes,Yes,No,4,Month-to-month,70.2,0.6698,High
+8903-WMRNW,Female,No,Yes,No,15,Month-to-month,101.75,0.6685,High
+4749-OJKQU,Female,No,No,No,4,Month-to-month,75.65,0.667,High
+7225-CBZPL,Male,Yes,Yes,No,17,Month-to-month,94.8,0.6669,High
+4686-UXDML,Female,No,No,No,21,Month-to-month,99.85,0.6659,High
+1960-UYCNN,Male,No,No,No,10,Month-to-month,95.25,0.6654,High
+8242-SOQUO,Female,Yes,No,No,5,Month-to-month,84.7,0.6643,High
+7394-LWLYN,Female,No,No,No,2,Month-to-month,70.15,0.6632,High
+3427-GGZZI,Female,No,Yes,No,19,Month-to-month,89.1,0.6625,High
+9927-DSWDF,Male,No,Yes,No,22,Month-to-month,104.6,0.6622,High
+2799-ARNLO,Female,Yes,Yes,No,5,Month-to-month,69.35,0.6619,High
+5599-HVLTW,Female,Yes,No,No,14,Month-to-month,80.35,0.6611,High
+6048-QBXKL,Female,Yes,No,No,2,Month-to-month,56.55,0.6589,High
+6734-GMPVK,Male,No,No,No,5,Month-to-month,105.3,0.6588,High
+3420-YJLQT,Female,No,No,No,2,Month-to-month,79.55,0.6587,High
+7181-OQCUT,Male,No,No,No,21,Month-to-month,103.85,0.6569,High
+5935-FCCNB,Female,Yes,No,No,17,Month-to-month,94.2,0.6563,High
+3411-WLRSQ,Female,Yes,Yes,No,3,Month-to-month,74.6,0.6553,High
+2880-FPNAE,Male,Yes,Yes,No,2,Month-to-month,74.2,0.6549,High
+4301-VVZKA,Male,No,Yes,No,16,Month-to-month,75.4,0.6535,High
+8873-GLDMH,Female,No,No,No,6,Month-to-month,73.85,0.6533,High
+9717-QEBGU,Male,No,No,No,2,Month-to-month,70.3,0.6528,High
+5606-AMZBO,Female,No,Yes,No,10,Month-to-month,78.15,0.6522,High
+6851-WEFYX,Male,Yes,Yes,No,35,Month-to-month,100.8,0.6509,High
+4482-EWFMI,Female,No,No,No,2,Month-to-month,69.7,0.6506,High
+5501-TVMGM,Male,No,No,No,1,Month-to-month,55.25,0.6499,High
+3292-PBZEJ,Male,Yes,No,No,11,Month-to-month,111.4,0.6493,High
+8875-AKBYH,Male,Yes,No,No,20,Month-to-month,84.35,0.6486,High
+5701-YVSVF,Female,Yes,Yes,No,11,Month-to-month,82.9,0.6483,High
+4853-OITSN,Male,No,Yes,No,5,Month-to-month,89.15,0.6477,High
+5331-RGMTT,Male,Yes,Yes,No,54,Month-to-month,99.05,0.6472,High
+4123-DVHPH,Male,No,Yes,No,9,Month-to-month,88.05,0.6472,High
+4059-IIEBK,Female,No,No,No,7,Month-to-month,78.55,0.6462,High
+7354-OIJLX,Male,No,No,No,9,Month-to-month,75.85,0.6461,High
+5928-QLDHB,Male,No,No,No,9,Month-to-month,76.25,0.6461,High
+8720-RQSBJ,Male,Yes,No,No,1,Month-to-month,44.0,0.6461,High
+2235-DWLJU,Female,Yes,No,No,6,Month-to-month,44.4,0.6452,High
+1104-TNLZA,Male,Yes,Yes,No,28,Month-to-month,105.8,0.6448,High
+2985-FMWYF,Female,No,No,No,23,Month-to-month,93.5,0.6445,High
+9360-OMDZZ,Male,No,No,No,24,Month-to-month,94.1,0.6437,High
+0817-HSUSE,Male,No,No,No,1,Month-to-month,75.5,0.6423,High
+9752-ZNQUT,Female,No,No,No,1,Month-to-month,48.6,0.6413,High
+2897-DOVND,Male,No,No,No,2,Month-to-month,69.8,0.64,High
+9799-CAYJJ,Female,Yes,Yes,No,2,Month-to-month,69.3,0.6397,High
+9050-IKDZA,Female,Yes,No,No,2,Month-to-month,81.5,0.6394,High
+1666-JXLKU,Female,No,No,No,37,Month-to-month,100.05,0.639,High
+4770-UEZOX,Male,No,No,No,2,Month-to-month,74.75,0.6384,High
+1078-TDCRN,Female,Yes,Yes,No,3,Month-to-month,30.75,0.6381,High
+3496-LFSZU,Male,No,Yes,No,4,Month-to-month,70.5,0.6372,High
+9133-AYJZG,Female,No,No,No,23,Month-to-month,98.7,0.635,High
+8107-KNCIM,Male,Yes,Yes,No,14,Month-to-month,75.1,0.6334,High
+3566-HJGPK,Male,No,No,No,1,Month-to-month,45.55,0.6322,High
+5133-POWUA,Male,No,No,No,1,Month-to-month,45.8,0.6322,High
+0674-EYYZV,Female,No,No,No,1,Month-to-month,54.65,0.6322,High
+2740-TVLFN,Male,No,No,No,1,Month-to-month,50.15,0.6303,High
+4521-YEEHE,Female,No,Yes,No,18,Month-to-month,88.85,0.6302,High
+1219-NNDDO,Female,No,No,No,9,Month-to-month,76.85,0.6301,High
+2275-RBYQS,Female,No,No,No,1,Month-to-month,45.4,0.6295,High
+6242-MBHPK,Female,Yes,Yes,No,23,Month-to-month,95.1,0.6282,High
+9696-RMYBA,Male,No,No,No,5,Month-to-month,80.1,0.6277,High
+7402-EYFXX,Male,Yes,No,No,26,Month-to-month,93.6,0.6275,High
+0018-NYROU,Female,No,Yes,No,5,Month-to-month,68.95,0.6274,High
+2800-QQUSO,Male,No,No,No,42,Month-to-month,100.3,0.6273,High
+2789-HQBOU,Male,No,No,No,3,Month-to-month,80.35,0.627,High
+2905-KFQUV,Female,No,Yes,No,2,Month-to-month,70.4,0.6269,High
+3050-GBUSH,Female,No,No,No,3,Month-to-month,34.8,0.6265,High
+6267-DCFFZ,Female,Yes,Yes,No,30,Month-to-month,90.05,0.626,High
+0928-JMXNP,Male,Yes,Yes,No,4,Month-to-month,29.9,0.6252,High
+6077-BDPXA,Female,No,No,No,3,Month-to-month,70.15,0.625,High
+8648-PFRMP,Female,Yes,No,No,14,Month-to-month,46.35,0.6241,High
+6158-HDPXZ,Male,No,No,No,1,Month-to-month,25.35,0.6238,High
+2080-CAZNM,Female,Yes,No,No,41,Month-to-month,104.4,0.6237,High
+6542-LWGXJ,Male,No,Yes,No,3,Month-to-month,25.0,0.6229,High
+2959-FENLU,Female,No,No,No,9,Month-to-month,85.3,0.6219,High
+0848-ZGQIJ,Female,No,Yes,No,16,Month-to-month,94.65,0.6218,High
+2107-FBPTK,Female,Yes,No,No,30,Month-to-month,104.1,0.6218,High
+6705-LXORM,Female,Yes,Yes,No,5,Month-to-month,70.05,0.6212,High
+2665-NPTGL,Female,Yes,Yes,No,26,Month-to-month,98.1,0.6204,High
+7901-TBKJX,Male,Yes,No,No,56,Month-to-month,101.05,0.6203,High
+7823-JSOAG,Male,No,No,No,3,Month-to-month,74.5,0.6192,High
+3370-HXOPH,Female,No,No,No,3,Month-to-month,76.1,0.6188,High
+1028-FFNJK,Male,Yes,Yes,No,30,Month-to-month,101.5,0.6186,High
+0411-EZJZE,Female,No,No,No,3,Month-to-month,60.25,0.6169,High
+2809-ZMYOQ,Female,No,No,No,32,Month-to-month,101.35,0.6145,High
+0224-RLWWD,Female,Yes,No,No,2,Month-to-month,44.3,0.614,High
+5760-IFJOZ,Male,No,No,No,3,Month-to-month,107.95,0.6138,High
+1833-TCXKK,Male,No,Yes,No,45,Month-to-month,107.75,0.6129,High
+8035-PWSEV,Female,No,No,No,6,Month-to-month,89.25,0.6125,High
+0248-IPDFW,Female,No,No,No,1,Month-to-month,50.1,0.6122,High
+2688-BHGOG,Male,Yes,No,No,9,Month-to-month,79.55,0.6112,High
+1766-GKNMI,Male,No,No,No,29,Month-to-month,84.9,0.6096,High
+2424-WVHPL,Male,Yes,No,No,1,Month-to-month,74.7,0.6081,High
+0644-OQMDK,Male,Yes,No,No,4,Month-to-month,70.65,0.6078,High
+5692-ICXLW,Male,Yes,No,No,31,Month-to-month,90.7,0.6058,High
+5405-ZMYXQ,Female,No,No,No,8,Month-to-month,74.6,0.6057,High
+0196-JTUQI,Female,No,No,No,9,Month-to-month,75.2,0.6057,High
+5440-VHLUL,Male,No,No,No,69,One year,105.2,0.6055,High
+2369-FEVNO,Male,No,No,No,1,Month-to-month,19.9,0.6053,High
+7206-PQBBZ,Male,Yes,Yes,No,11,Month-to-month,70.2,0.6041,High
+9633-XQABV,Female,No,No,No,3,Month-to-month,70.25,0.6038,High
+2694-CIUMO,Female,No,No,No,12,Month-to-month,79.55,0.6023,High
+7426-RHZGU,Male,No,No,No,9,Month-to-month,95.9,0.6014,High
+0396-YCHWO,Male,No,Yes,No,36,Month-to-month,95.4,0.6005,High
+0447-RXSGD,Male,No,No,No,24,Month-to-month,99.65,0.6,High
+4062-HBMOS,Male,No,No,No,52,Month-to-month,103.05,0.5995,High
+0480-BIXDE,Female,No,Yes,No,19,Month-to-month,96.8,0.5986,High
+3518-PZXZQ,Female,No,Yes,No,1,Month-to-month,55.3,0.598,High
+2969-QWUBZ,Female,No,No,No,2,Month-to-month,51.4,0.5979,High
+5044-LRQAQ,Female,No,Yes,No,7,Month-to-month,69.2,0.597,High
+0432-CAJZV,Male,No,No,No,3,Month-to-month,90.7,0.5964,High
+2439-LYPMQ,Male,Yes,Yes,No,38,Month-to-month,102.6,0.596,High
+6128-AQBMT,Male,Yes,Yes,No,41,Month-to-month,53.95,0.5953,High
+1319-YLZJG,Male,No,Yes,No,12,Month-to-month,84.6,0.595,High
+6519-CFDBX,Female,No,No,No,2,Month-to-month,45.4,0.5945,High
+7245-NIIWQ,Female,No,No,No,3,Month-to-month,69.85,0.5944,High
+5119-NZPTV,Male,Yes,Yes,No,2,Month-to-month,70.1,0.5941,High
+9279-CJEOJ,Female,Yes,No,No,21,Month-to-month,95.4,0.5933,High
+4661-NJEUX,Male,No,No,No,1,Month-to-month,20.05,0.5931,High
+9121-PHQSR,Male,Yes,Yes,No,16,Month-to-month,85.05,0.5929,High
+3005-TYFRD,Female,No,Yes,No,55,Month-to-month,103.65,0.5926,High
+4815-GBTCD,Female,No,Yes,No,4,Month-to-month,25.15,0.5919,High
+6496-JDSSB,Female,No,No,No,8,Month-to-month,80.0,0.5918,High
+1469-LBJQJ,Female,No,Yes,No,66,Month-to-month,105.2,0.5914,High
+9743-DQKQW,Male,No,No,No,3,Month-to-month,25.1,0.5912,High
+3211-AAPKX,Male,No,No,No,20,Month-to-month,98.55,0.5905,High
+1508-DFXCU,Male,No,No,No,12,Month-to-month,81.45,0.5887,High
+0899-LIIBW,Male,No,Yes,No,34,Month-to-month,100.85,0.5885,High
+8224-DWCKX,Male,Yes,No,No,12,Month-to-month,73.3,0.5874,High
+1251-STYSZ,Female,Yes,No,No,4,Month-to-month,80.25,0.5868,High
+8714-CTZJW,Female,No,No,No,4,Month-to-month,82.85,0.5866,High
+6918-UMQCG,Female,No,No,No,5,Month-to-month,80.2,0.586,High
+6986-IXNDM,Male,No,No,No,14,Month-to-month,92.9,0.5859,High
+2187-PKZAY,Male,No,No,No,12,Month-to-month,79.95,0.5857,High
+8705-WZCYL,Male,No,No,No,1,Month-to-month,44.8,0.5854,High
+4373-VVHQL,Male,No,No,No,1,Month-to-month,44.75,0.5854,High
+4450-DLLMH,Male,No,No,No,2,Month-to-month,71.3,0.5848,High
+0410-IPFTY,Female,No,Yes,No,31,Month-to-month,83.85,0.5845,High
+0585-EGDDA,Male,No,Yes,No,40,Month-to-month,80.0,0.5841,High
+1932-UEDCX,Male,Yes,Yes,No,33,Month-to-month,100.6,0.584,High
+6198-RTPMF,Female,No,Yes,No,17,Month-to-month,92.6,0.5829,High
+5399-ZIMKF,Male,No,No,No,5,Month-to-month,74.65,0.5829,High
+6583-KQJLK,Female,Yes,Yes,No,15,Month-to-month,94.65,0.5828,High
+7442-YGZFK,Male,No,No,No,1,Month-to-month,49.8,0.5802,High
+6260-ONULR,Male,No,No,No,1,Month-to-month,62.8,0.58,High
+0749-IRGQE,Female,Yes,Yes,No,13,Month-to-month,45.3,0.58,High
+9058-MJLZC,Female,No,No,No,24,Month-to-month,94.6,0.5792,High
+8325-QRPZR,Female,No,No,No,7,Month-to-month,75.15,0.5791,High
+3420-ZDBMA,Male,Yes,No,No,5,Month-to-month,71.45,0.5786,High
+5442-BHQNG,Female,No,No,No,2,Month-to-month,70.35,0.5783,High
+4854-CIDCF,Female,Yes,No,No,3,Month-to-month,73.85,0.5781,High
+3995-WFCSM,Female,No,No,No,2,Month-to-month,60.85,0.5778,High
+5183-SNMJQ,Male,No,No,No,10,Month-to-month,95.1,0.5768,High
+4273-MBHYA,Female,No,No,Yes,1,Month-to-month,89.35,0.5765,High
+2468-SJFLM,Male,No,No,No,1,Month-to-month,74.3,0.5754,High
+2081-VEYEH,Male,No,No,No,3,Month-to-month,107.95,0.5743,High
+0988-JRWWP,Female,No,No,No,3,Month-to-month,54.2,0.5715,High
+8709-KRDVL,Female,No,No,No,33,Month-to-month,100.0,0.5709,High
+1475-VWVDO,Male,No,No,No,7,Month-to-month,74.9,0.5705,High
+3914-FDRHP,Male,No,No,No,9,Month-to-month,86.25,0.57,High
+9588-OZDMQ,Female,No,Yes,No,2,Month-to-month,45.0,0.5697,High
+9992-UJOEL,Male,No,No,No,2,Month-to-month,50.3,0.5696,High
+0793-TWELN,Female,No,No,No,4,Month-to-month,80.15,0.5689,High
+3904-UKFRE,Male,No,No,No,4,Month-to-month,80.1,0.568,High
+4291-SHSBH,Male,No,No,No,7,Month-to-month,69.55,0.567,High
+9402-ORRAH,Female,Yes,No,No,15,Month-to-month,91.5,0.5663,High
+5365-LLFYV,Female,No,No,No,2,Month-to-month,45.85,0.5648,High
+7422-WNBTY,Male,No,Yes,No,33,Month-to-month,93.35,0.5643,High
+6212-ATMLK,Female,No,No,No,50,Month-to-month,95.7,0.5627,High
+2203-GHNWN,Female,No,Yes,No,24,Month-to-month,79.65,0.5604,High
+0225-ZORZP,Male,No,No,No,3,Month-to-month,84.3,0.5603,High
+9244-ZVAPM,Male,No,No,No,1,Month-to-month,45.6,0.5603,High
+7537-RBWEA,Female,No,No,No,1,Month-to-month,25.15,0.5594,High
+4367-NHWMM,Female,No,No,No,1,Month-to-month,24.9,0.5594,High
+1016-DJTSV,Male,Yes,No,No,8,Month-to-month,69.7,0.5585,High
+0147-ESWWR,Female,Yes,Yes,No,39,Month-to-month,101.25,0.5581,High
+6582-OIVSP,Female,No,No,No,1,Month-to-month,45.3,0.5574,High
+7754-IXRMC,Female,No,No,No,1,Month-to-month,45.35,0.5574,High
+7252-NTGSS,Female,No,No,No,1,Month-to-month,45.15,0.5574,High
+8270-RKSAP,Male,No,No,No,9,Month-to-month,70.5,0.5574,High
+2761-XECQW,Male,Yes,Yes,No,8,Month-to-month,43.35,0.5562,High
+8564-LDKFL,Male,No,Yes,No,40,One year,106.0,0.5556,High
+7517-LDMPS,Female,No,No,No,12,Month-to-month,84.6,0.5555,High
+4546-FOKWR,Female,No,No,No,16,Month-to-month,74.75,0.5547,High
+4128-ETESU,Female,Yes,Yes,No,47,Month-to-month,99.7,0.5528,High
+7379-FNIUJ,Male,No,No,No,2,Month-to-month,100.2,0.5527,High
+3413-BMNZE,Male,Yes,No,No,1,Month-to-month,45.25,0.5525,High
+4299-SIMNS,Male,No,No,No,9,Month-to-month,81.15,0.5524,High
+3481-JHUZH,Male,No,Yes,No,41,Month-to-month,80.25,0.5493,High
+6339-YPSAH,Male,No,No,No,9,Month-to-month,73.8,0.5492,High
+2800-VEQXM,Female,No,No,No,3,Month-to-month,74.75,0.5486,High
+2862-PFNIK,Male,No,No,Yes,1,Month-to-month,24.7,0.5479,High
+6923-JHPMP,Female,No,No,No,2,Month-to-month,80.45,0.5478,High
+5857-TYBCJ,Male,Yes,Yes,No,44,Month-to-month,89.2,0.547,High
+3587-PMCOY,Male,No,No,No,10,One year,98.9,0.547,High
+6507-ZJSUR,Male,Yes,Yes,No,23,Month-to-month,90.45,0.5465,High
+4223-WOZCM,Male,Yes,No,No,2,Month-to-month,49.95,0.5462,High
+9903-LYSAB,Male,No,Yes,No,18,Month-to-month,73.15,0.5456,High
+8818-DOPVL,Female,Yes,No,No,46,Month-to-month,104.45,0.5454,High
+2103-ZRXFN,Male,No,No,No,1,Month-to-month,50.75,0.5448,High
+3966-HRMZA,Female,Yes,No,No,3,Month-to-month,75.05,0.5444,High
+9129-UXERG,Female,Yes,No,No,18,Month-to-month,103.6,0.5441,High
+3748-FVMZZ,Male,No,No,No,4,Month-to-month,40.05,0.5434,High
+1013-QCWAM,Female,Yes,Yes,No,66,Month-to-month,100.8,0.5432,High
+5091-HFAZW,Female,No,No,No,2,Month-to-month,91.15,0.5423,High
+9208-OLGAQ,Female,Yes,No,No,18,Month-to-month,84.95,0.5422,High
+2378-VTKDH,Male,Yes,Yes,No,65,Month-to-month,104.35,0.5412,High
+8687-BAFGU,Male,No,No,No,1,Month-to-month,74.0,0.541,High
+9773-PEQBZ,Male,No,No,No,10,Month-to-month,79.85,0.5404,High
+2984-AFWNC,Female,No,No,No,3,Month-to-month,95.4,0.5387,High
+4553-DVPZG,Female,No,Yes,No,62,Month-to-month,101.35,0.5383,High
+9494-MRNYX,Male,No,No,No,10,Month-to-month,75.05,0.5373,High
+2041-JIJCI,Female,No,No,No,5,Month-to-month,64.0,0.5371,High
+5630-IXDXV,Female,No,No,No,47,Month-to-month,106.35,0.5369,High
+0082-LDZUE,Male,No,No,No,1,Month-to-month,44.3,0.5365,High
+5233-AOZUF,Female,No,Yes,No,29,Month-to-month,74.95,0.5361,High
+2478-EEWWM,Male,No,Yes,No,59,Month-to-month,44.3,0.5358,High
+4029-HPFVY,Male,No,No,No,3,Month-to-month,70.3,0.5357,High
+9214-EKVXR,Female,No,No,No,1,Month-to-month,44.0,0.5348,High
+1101-SSWAG,Female,No,Yes,No,15,Month-to-month,51.1,0.5341,High
+9506-UXUSK,Male,No,No,No,13,Month-to-month,70.15,0.5339,High
+4781-ZXYGU,Male,No,Yes,Yes,1,Month-to-month,20.15,0.5338,High
+8266-VBFQL,Male,No,No,No,4,Month-to-month,90.4,0.5336,High
+2043-WVTQJ,Male,No,Yes,No,1,Month-to-month,55.7,0.532,High
+5016-IBERQ,Male,No,Yes,No,23,Month-to-month,84.25,0.5313,High
+9168-INPSZ,Female,Yes,Yes,No,44,Month-to-month,104.15,0.531,High
+3196-NVXLZ,Female,No,No,No,25,Month-to-month,84.6,0.5309,High
+3798-EPWRR,Female,Yes,No,No,2,Month-to-month,43.95,0.5293,High
+4727-MCYZG,Male,No,No,No,1,Month-to-month,55.55,0.5285,High
+3365-SAIGS,Female,No,No,No,17,Month-to-month,83.55,0.5283,High
+3807-XHCJH,Female,No,Yes,Yes,1,Month-to-month,20.0,0.5281,High
+8710-YGLWG,Male,No,No,No,1,Month-to-month,44.9,0.5277,High
+8950-MTZNV,Male,No,No,No,1,Month-to-month,44.95,0.5277,High
+1928-BXYIV,Male,No,No,No,1,Month-to-month,61.15,0.5276,High
+6907-FLBER,Male,No,No,No,1,Month-to-month,54.3,0.5273,High
+4983-CCWMC,Male,No,No,No,3,Month-to-month,69.6,0.527,High
+5647-FXOTP,Female,Yes,Yes,No,60,Month-to-month,105.9,0.527,High
+5288-AHOUP,Male,Yes,No,No,11,Month-to-month,78.5,0.527,High
+3466-RITXD,Male,No,No,No,26,Month-to-month,92.4,0.5267,High
+1845-ZLLIG,Male,No,No,No,1,Month-to-month,50.15,0.5264,High
+7233-DRTRF,Male,No,Yes,No,63,Month-to-month,102.4,0.5261,High
+4741-WWJQZ,Female,No,Yes,No,2,Month-to-month,80.15,0.5258,High
+2603-HVKCG,Male,No,No,No,31,Month-to-month,101.4,0.5247,High
+9885-AIBVB,Male,No,Yes,No,29,Month-to-month,85.8,0.5246,High
+0430-IHCDJ,Male,No,No,No,15,Month-to-month,49.0,0.5238,High
+4647-MUZON,Female,No,Yes,No,18,Month-to-month,95.95,0.5237,High
+1100-DDVRV,Male,No,Yes,No,17,Month-to-month,49.8,0.5221,High
+5652-MSDEY,Female,No,No,No,10,Month-to-month,75.75,0.5218,High
+2582-FFFZR,Female,No,No,No,22,Month-to-month,50.6,0.5196,High
+2637-FKFSY,Female,No,Yes,No,3,Month-to-month,46.1,0.5196,High
+8849-AYPTR,Male,No,Yes,No,33,Month-to-month,91.25,0.519,High
+1478-VPOAD,Female,No,No,No,1,Month-to-month,43.8,0.5185,High
+2038-OEQZH,Male,No,No,No,4,Month-to-month,86.05,0.518,High
+7278-CKDNC,Male,Yes,No,No,24,Month-to-month,80.5,0.5178,High
+4195-NZGTA,Female,No,No,No,1,Month-to-month,25.25,0.5176,High
+3714-NTNFO,Female,No,No,No,49,Month-to-month,84.5,0.5175,High
+1357-BIJKI,Male,No,Yes,No,50,One year,98.25,0.5169,High
+6778-YSNIH,Female,No,No,No,2,Month-to-month,59.0,0.5158,High
+1942-OQFRW,Male,No,No,No,1,Month-to-month,44.0,0.5142,High
+0315-LVCRK,Male,No,No,No,11,Month-to-month,84.8,0.5138,High
+3453-RTHJQ,Male,No,No,No,6,Month-to-month,69.1,0.5136,High
+8617-ENBDS,Male,No,No,No,3,Month-to-month,73.6,0.5134,High
+2971-SGAFL,Female,No,No,No,13,Month-to-month,78.75,0.5128,High
+5989-PGKJB,Female,No,No,No,16,Month-to-month,86.25,0.5126,High
+8785-CJSHH,Female,No,Yes,No,60,Month-to-month,99.8,0.5117,High
+0491-KAPQG,Male,No,No,No,21,Month-to-month,73.7,0.5114,High
+9450-TRJUU,Male,No,No,No,35,Month-to-month,83.15,0.5113,High
+2105-PHWON,Female,No,Yes,No,33,Month-to-month,95.0,0.5111,High
+3223-DWFIO,Male,Yes,No,No,4,Month-to-month,69.35,0.5107,High
+1910-FMXJM,Female,No,Yes,No,36,Month-to-month,80.4,0.5107,High
+7714-YXSMB,Female,No,No,No,26,Month-to-month,100.5,0.5104,High
+3439-GVUSX,Male,No,No,No,1,Month-to-month,24.4,0.5102,High
+3278-FSIXX,Female,No,No,No,2,Month-to-month,45.25,0.5098,High
+2604-IJPDU,Female,No,Yes,No,20,Month-to-month,96.55,0.5097,High
+6198-ZFIOJ,Female,No,No,No,5,Month-to-month,75.6,0.5091,High
+3003-CMDUU,Female,No,Yes,No,25,Month-to-month,95.15,0.5079,High
+7852-LECYP,Male,Yes,Yes,No,13,Month-to-month,93.8,0.5076,High
+6557-BZXLQ,Male,Yes,No,No,16,Month-to-month,69.65,0.5076,High
+5019-GQVCR,Male,Yes,No,No,43,Month-to-month,84.85,0.5074,High
+5879-SESNB,Female,No,No,No,11,Month-to-month,75.25,0.5067,High
+3951-NJCVI,Female,Yes,Yes,No,42,Month-to-month,95.05,0.5065,High
+4537-DKTAL,Female,No,No,No,2,Month-to-month,45.55,0.5062,High
+4176-FXYBO,Male,No,Yes,No,54,Month-to-month,109.55,0.506,High
+0958-YHXGP,Female,No,No,No,7,Month-to-month,69.9,0.5055,High
+8180-AKMJV,Female,No,No,No,1,Month-to-month,44.55,0.505,High
+7298-IZWLY,Female,No,No,No,1,Month-to-month,19.4,0.5045,High
+5650-YLIBA,Male,No,No,No,31,Month-to-month,81.15,0.503,High
+8695-ARGXZ,Male,Yes,Yes,No,34,Month-to-month,75.55,0.5029,High
+9093-FPDLG,Female,No,No,No,11,Month-to-month,94.2,0.5028,High
+3717-OEAUQ,Male,No,No,No,2,Month-to-month,70.7,0.5028,High
+8468-EHYJA,Female,No,Yes,No,57,Month-to-month,99.65,0.5027,High
+3629-ZNKXA,Male,Yes,No,No,17,Month-to-month,101.8,0.5027,High
+9572-WUKSB,Male,No,Yes,No,3,Month-to-month,29.9,0.502,High
+3771-PZOBW,Male,No,No,No,20,Month-to-month,90.7,0.5019,High
+1754-GKYPY,Male,Yes,Yes,No,22,Month-to-month,89.75,0.5016,High
+2832-KJCRD,Female,No,No,No,38,Month-to-month,103.65,0.501,High
+1636-NTNCO,Male,Yes,No,No,4,Month-to-month,50.95,0.5009,High
+8404-GFGCZ,Male,No,Yes,No,4,Month-to-month,65.6,0.5006,High
+1194-HVAIF,Female,No,Yes,No,27,Month-to-month,95.0,0.5004,High
+5153-RTHKF,Female,No,No,No,34,Month-to-month,85.35,0.499,Medium
+6173-GOLSU,Male,Yes,Yes,No,67,Month-to-month,94.65,0.4986,Medium
+9167-APMXZ,Female,No,No,No,22,Month-to-month,84.15,0.4986,Medium
+3597-MVHJT,Female,No,No,No,27,Month-to-month,95.6,0.4984,Medium
+7586-ZATGZ,Male,No,No,No,40,Month-to-month,84.9,0.4974,Medium
+7145-FEJWU,Female,No,No,Yes,12,Month-to-month,105.3,0.497,Medium
+5605-IYGFG,Female,No,No,No,7,Month-to-month,69.85,0.497,Medium
+9638-JIQYA,Male,No,No,No,2,Month-to-month,24.9,0.497,Medium
+4690-PKDQG,Female,Yes,Yes,No,42,Month-to-month,95.55,0.4963,Medium
+8033-VCZGH,Male,No,Yes,No,50,One year,103.95,0.4963,Medium
+5968-VXZLG,Male,No,No,No,2,Month-to-month,46.6,0.4947,Medium
+9508-ILZDG,Female,Yes,No,No,34,Month-to-month,96.35,0.4944,Medium
+6833-JMZYP,Female,No,No,No,15,Month-to-month,94.0,0.4934,Medium
+7529-ZDFXI,Male,Yes,Yes,No,57,Month-to-month,89.85,0.4932,Medium
+4998-IKFSE,Female,No,No,No,30,Month-to-month,100.45,0.493,Medium
+2080-GKCWQ,Male,No,No,No,2,Month-to-month,74.95,0.4927,Medium
+9629-NHXFW,Female,No,Yes,Yes,1,Month-to-month,19.4,0.492,Medium
+1622-HSHSF,Female,No,No,No,1,Month-to-month,19.55,0.4919,Medium
+8566-YPRGL,Female,No,No,No,1,Month-to-month,19.5,0.4919,Medium
+9714-EDSUC,Male,No,No,No,4,Month-to-month,94.9,0.4915,Medium
+8490-BXHEO,Male,Yes,No,No,18,Month-to-month,80.55,0.4914,Medium
+5339-PXDVH,Male,No,No,No,4,Month-to-month,90.65,0.4913,Medium
+3312-ZWLGF,Male,Yes,Yes,No,29,Month-to-month,79.3,0.4909,Medium
+4480-QQRHC,Female,Yes,No,No,8,Month-to-month,74.05,0.4897,Medium
+0096-BXERS,Female,No,Yes,No,6,Month-to-month,50.35,0.4896,Medium
+2739-CACDQ,Female,Yes,No,No,17,Month-to-month,82.65,0.489,Medium
+9962-BFPDU,Female,No,Yes,Yes,1,Month-to-month,20.05,0.4885,Medium
+3088-LHEFH,Female,No,No,No,11,Month-to-month,79.0,0.4882,Medium
+2227-JRSJX,Female,No,No,No,21,Month-to-month,99.15,0.4875,Medium
+5022-KVDQT,Male,No,No,No,27,Month-to-month,81.3,0.4875,Medium
+4137-BTIKL,Male,No,No,No,2,Month-to-month,90.75,0.4868,Medium
+1226-IENZN,Male,Yes,No,No,16,Month-to-month,78.75,0.4866,Medium
+2792-LSHWX,Female,No,No,No,1,Month-to-month,83.4,0.4862,Medium
+8286-AFUYI,Male,No,No,No,1,Month-to-month,47.95,0.4856,Medium
+1728-BQDMA,Female,No,No,No,2,Month-to-month,44.45,0.4851,Medium
+0139-IVFJG,Female,No,Yes,No,2,Month-to-month,90.35,0.4847,Medium
+8974-OVACP,Female,No,No,No,1,Month-to-month,20.15,0.4841,Medium
+3082-VQXNH,Male,No,Yes,No,3,Month-to-month,29.8,0.4835,Medium
+0428-IKYCP,Male,No,Yes,No,22,Month-to-month,87.0,0.4829,Medium
+1730-ZMAME,Female,Yes,No,No,32,Month-to-month,79.5,0.4827,Medium
+7318-EIVKO,Male,No,No,No,8,Month-to-month,59.25,0.4821,Medium
+1335-NTIUC,Male,No,No,No,9,Month-to-month,24.95,0.4817,Medium
+4566-NECEV,Male,No,No,No,5,Month-to-month,96.55,0.4811,Medium
+1304-BCCFO,Male,No,Yes,No,9,Month-to-month,70.05,0.4807,Medium
+5533-NHFRF,Male,Yes,No,No,7,Month-to-month,44.4,0.4806,Medium
+5482-VXSXJ,Male,No,No,No,22,Month-to-month,93.2,0.4802,Medium
+0212-ISBBF,Female,No,No,No,22,Month-to-month,50.35,0.4795,Medium
+5419-JKZNQ,Male,Yes,Yes,No,30,Month-to-month,77.9,0.4795,Medium
+8212-CRQXP,Female,No,Yes,No,22,Month-to-month,80.0,0.4793,Medium
+6559-PDZLR,Male,No,No,No,26,Month-to-month,98.65,0.4791,Medium
+5271-DBYSJ,Male,Yes,No,No,11,Month-to-month,79.15,0.4782,Medium
+8544-GOQSH,Female,No,No,No,14,Month-to-month,80.05,0.4781,Medium
+6243-OZGFH,Female,No,No,No,23,Month-to-month,44.95,0.477,Medium
+7789-HKSBS,Female,Yes,Yes,No,42,One year,105.2,0.477,Medium
+7404-JLKQG,Female,No,No,No,3,Month-to-month,57.55,0.4767,Medium
+4983-CLMLV,Female,No,Yes,No,52,Month-to-month,102.7,0.4762,Medium
+0928-XUTSN,Female,No,No,No,13,Month-to-month,80.5,0.4761,Medium
+9108-EJFJP,Female,No,Yes,No,1,Month-to-month,53.55,0.4761,Medium
+4718-DHSMV,Female,No,No,No,11,Month-to-month,35.8,0.476,Medium
+2831-EBWRN,Male,No,No,No,4,Month-to-month,45.9,0.4759,Medium
+6888-SBYAI,Male,No,No,No,1,Month-to-month,50.7,0.4753,Medium
+7794-JASDG,Male,No,No,No,1,Month-to-month,50.75,0.4753,Medium
+9777-WJJPR,Male,No,Yes,No,31,Month-to-month,88.65,0.4751,Medium
+7801-KICAO,Female,No,No,No,18,Month-to-month,74.15,0.4749,Medium
+2786-GCDPI,Female,Yes,No,No,50,Month-to-month,104.95,0.4727,Medium
+5906-BFOZT,Male,No,No,No,1,Month-to-month,19.5,0.4723,Medium
+2070-XYMFH,Female,Yes,No,No,23,Month-to-month,79.35,0.4717,Medium
+6234-PFPXL,Male,No,Yes,No,22,Month-to-month,95.9,0.4708,Medium
+9667-TKTVZ,Female,No,No,No,2,Month-to-month,54.35,0.4692,Medium
+5226-NOZFC,Male,No,No,No,26,Month-to-month,85.75,0.4681,Medium
+0921-OHLVP,Male,No,No,No,22,Month-to-month,83.05,0.4673,Medium
+9053-EJUNL,Male,No,No,No,41,Month-to-month,89.2,0.467,Medium
+2038-LLMLM,Female,No,No,No,48,Month-to-month,103.85,0.4665,Medium
+7130-YXBRO,Male,No,Yes,No,48,Month-to-month,111.45,0.4654,Medium
